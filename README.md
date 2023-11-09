@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-Penetration%20Test-orange)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2000&size=30&color=00FF00&background=000000&center=%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=%E7%9C%9F%E7%9A%84&multiline=true&width=1024&height=120&lines=root%40nhpt+%23+whoami;root%40nhpt+%23+Guess+what;root%40nhpt+%23+I+am+a+Penetration+Testing+Engineer)](https://git.io/typing-svg)
-![image](wechat.png){ width=auto height=50% }
+![image](wechat.png){ width=auto height=30% }
